@@ -1,4 +1,6 @@
-![Masterhead](https://user-images.githubusercontent.com/816965/38465790-8d461534-3b63-11e8-850c-c3cd76ef5048.gif)
+<p align="center">
+  <img src="https://codemyui.com/wp-content/uploads/2017/03/hero-section-animation.gif">
+</p>
 <h1 align="center">Hi 👋, I'm Junior Imam</h1>
 <h3 align="center">A frontend development enthusiast</h3>
 
