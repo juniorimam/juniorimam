@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://codemyui.com/wp-content/uploads/2017/03/hero-section-animation.gif">
+<p align="right">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 </p>
 <h1 align="center">Hi 👋, I'm Junior Imam</h1>
 <h3 align="center">A frontend development enthusiast</h3>
