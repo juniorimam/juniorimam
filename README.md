@@ -1,10 +1,10 @@
+![Masterhead](https://user-images.githubusercontent.com/816965/38465790-8d461534-3b63-11e8-850c-c3cd76ef5048.gif)
 <h1 align="center">Hi 👋, I'm Junior Imam</h1>
 <h3 align="center">A frontend development enthusiast</h3>
-<img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juniorimam&label=Profile%20views&color=0e75b6&style=flat" alt="juniorimam" /> </p>
 
-- 🌱 I’m currently learning **Frontend Developer Class at Dicoding**
+- 🌱 I’m currently learning **Frontend Developer Class at [Dicoding](https://dicoding.com)**
 
 - 📫 How to reach me **juniorimam123@gmail.com**
 
