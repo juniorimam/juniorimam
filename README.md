@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
+  <img width="500" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 </p>
 <h1 align="center">Hi 👋, I'm Junior Imam</h1>
 <h3 align="center">A frontend development enthusiast</h3>
