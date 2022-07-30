@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Junior Imam</h1>
-<h3 align="center">A frontend development enthusiast</h3>
+<h3 align="center">A Frontend Web Development enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juniorimam&label=Profile%20views&color=0e75b6&style=flat" alt="juniorimam" /> </p>
 
